@@ -1,4 +1,4 @@
-I'm a software engineer who is making a career change into software engineering after 6 years of working in electrical engineering industry.
+I'm a software engineer who made a career change into software engineering after 6 years of working in electrical engineering industry.
 
 Software engineering isn't only a career path for me, it's also what my life was all about since I was at high school.
 I love coding so much that I couldn't forget it even through the years of studying and working in electrical engineering field. I always found a way to add some coding touches over everything I did in electrical engineering.
