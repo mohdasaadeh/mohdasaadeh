@@ -1,4 +1,4 @@
-I'm a software engineer and a former electrical engineer.
+I'm a software engineer and a former electrical engineer. <br />
 Sofware engineering isn't only a career path for me, it's also what my life was all about since I was at high school.
 
 I write scalable and maintainable code with high performance, best design patterns and practices, test driven development, and best programming paradigm using JavaScript and TypeScript in React with developing designs using advanced CSS and SASS.
