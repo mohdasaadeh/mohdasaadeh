@@ -1,9 +1,7 @@
-I'm a software engineer and a former electrical engineer. <br />
-I made a career shift into software engineering after 6 years of working in electrical engineering field because I wanted to pursue a career in the field that my life has been all about since the high scool.
-
+I'm a software engineer. <br />
 I write code in TypeScript and JavaScript. <br />
-I build frontend apps and components with high performance using React, as well as I develop UI designs using CSS and SASS. <br />
-I build RESTful APIs in Node.js using Nest.js, and using SQL/NoSQL queries and ORMs.
+I work mainly on building testable frontend apps and components with high performance using React, as well as on developing UI designs using CSS and SASS. <br />
+I work also on building RESTful APIs in Node.js using Nest.js, and using SQL/NoSQL queries with the help of different ORMs.
 
 It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and Anime, listening to Rock and Metal, so I bet that we would have something to talk about other than coding in our free time ⚡️.
 
