@@ -1,5 +1,5 @@
 I'm a software engineering and coding worm. <br />
-I get goosebumps whenever I see clean, elegant, and well functioning code. <br />
+I get goosebumps whenever I see clean and well functioning code. <br />
 I like the unlimited challenge that software engineering has more than anything else. <br />
 I write code in TypeScript/JavaScript. <br />
 I work mainly on building performant and testable frontend apps and components in React environment using different technologies, as well as on developing UI designs using CSS and SASS. <br />
