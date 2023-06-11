@@ -2,8 +2,8 @@ I'm a software engineering and coding worm. <br />
 I get goosebumps whenever I see clean, elegant, and well functioning code. <br />
 I like the unlimited challenge that software engineering has more than anything else. <br />
 I write code in TypeScript/JavaScript. <br />
-I work mainly on building performant and testable frontend apps and components using React, as well as on developing UI designs using CSS and SASS. <br />
-I work also on building RESTful APIs in Node.js using Nest.js, and using SQL/NoSQL queries with the help of different ORMs.
+I work mainly on building performant and testable frontend apps and components in React environment using different technologies, as well as on developing UI designs using CSS and SASS. <br />
+I work also on building RESTful APIs in Node.js using Express and Nest.js, and using SQL/NoSQL queries with the help of different ORMs.
 
 It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and Anime, learning languages, and listening to rock and metal, so I bet that we would have many exciting things to talk about in our free time ⚡️.
 
