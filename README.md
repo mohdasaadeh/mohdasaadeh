@@ -4,7 +4,7 @@ I get goosebumps whenever I see clean and well functioning code, as well as when
 
 What do I do?
 * I write code in TypeScript and JavaScript.
-* I work mainly on building frontend apps and components using React.
+* I build frontend apps and components using React.
 * I develop advanced and complex designs using CSS and SASS.
 * I build HTTP RESTful and GraphQL APIs in Node.js using Express, Nest.js, and Apollo.
 * I manage SQL/NoSQL databases and optimize queries with the help of different ORMs. <br />
