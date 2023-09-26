@@ -7,7 +7,7 @@ What do I do?
 * I work mainly on building frontend apps and components using React.
 * I develop advanced and complex designs using CSS and SASS.
 * I build HTTP RESTful and GraphQL APIs in Node.js using Express, Nest.js, and Apollo.
-* I manage SQL/NoSQL databases and optimize their queries with the help of different ORMs. <br />
+* I manage SQL/NoSQL databases and optimize queries with the help of different ORMs. <br />
 
 What am I interested in the most?
 * Building performant, testable, maintainable, compatible, and scalable React components.
