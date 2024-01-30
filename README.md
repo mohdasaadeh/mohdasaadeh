@@ -15,7 +15,7 @@ What am I interested in the most?
 
 What am I studying nowadays?
 * Angular.
-* Web service design patterns in Node.js.
+* Building scalable web services in Node.js.
 * Database queries optimization.
 * Basic topics about DevOps.
 
