@@ -11,11 +11,12 @@ What do I do?
 
 What am I interested in the most?
 * Building performant, testable, maintainable, reliable, and reusable React components.
-* Managing state in React using Redux Observable. <br />
+* Managing state in React. <br />
+* Building scalable, high throughput, and low latency web services in Node.js. <br />
 
 What am I studying nowadays?
-* Angular.
 * Building scalable web services in Node.js.
+* Angular.
 * Database queries optimization.
 * Basic topics about DevOps.
 
