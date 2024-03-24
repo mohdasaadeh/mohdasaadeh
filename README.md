@@ -12,7 +12,7 @@ What do I do?
 What am I interested in the most?
 * Building performant, testable, maintainable, reliable, and reusable React components.
 * Managing state in React. <br />
-* Building scalable, high throughput, and low latency web services in Node.js. <br />
+* Building scalable, high throughput, and low latency web services and APIs in Node.js. <br />
 
 What am I learning nowadays?
 * Building scalable web services and APIs in Node.js.
