@@ -4,7 +4,7 @@ I get goosebumps whenever I see clean and well functioning code, as well as when
 
 What do I do?
 * I write code in TypeScript and JavaScript.
-* I build advanced and complex frontend apps and components using React.
+* I build advanced and complex frontend apps and components using React and Next.js.
 * I develop advanced and complex designs using CSS and SASS.
 * I build HTTP RESTful and GraphQL APIs in Node.js using Express, Nest.js, and Apollo.
 * I write SQL/NoSQL queries with the help of different ORMs. <br />
@@ -14,11 +14,8 @@ What am I interested in the most?
 * Managing state in React. <br />
 * Building scalable, high throughput, and low latency web services in Node.js. <br />
 
-What am I studying nowadays?
-* Building scalable web services in Node.js.
-* Angular.
-* Database queries optimization.
-* Basic topics about DevOps.
+What am I learning nowadays?
+* Building scalable web services and APIs in Node.js.
 
 It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and anime, learning languages, and listening to rock and metal, so I bet that we would have many exciting things to talk about in our free time ⚡️.
 
