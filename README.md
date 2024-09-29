@@ -12,7 +12,6 @@ What do I do?
 
 What am I interested in the most?
 * Building performant, maintainable, reliable, testable, and reusable frontend components.
-* Managing state in frontend applications. <br />
 * Building scalable, high throughput, and low latency web services and APIs. <br />
 
 It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and anime, learning human languages, and listening to rock and metal, so I bet that we would have many exciting things to talk about in our free time ⚡️.
