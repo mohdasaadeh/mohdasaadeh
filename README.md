@@ -1,6 +1,6 @@
 I'm an enthusiastic software engineer. <br />
 I like the unlimited challenge that software engineering has more than anything else. <br />
-I get goosebumps when I see technologies that solve big problems in an easy-to-implement way. <br />
+I get goosebumps whenever I see technologies that solve big problems in an easy-to-implement way. <br />
 
 What do I do?
 * I write code in TypeScript and JavaScript.
