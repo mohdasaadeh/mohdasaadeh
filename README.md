@@ -1,23 +1,21 @@
-I'm an enthusiastic software engineer concentrated on full stack development. <br />
+I'm an enthusiastic software engineer. <br />
 I like the unlimited challenge that software engineering has more than anything else. <br />
-I get goosebumps whenever I see clean and well functioning code, as well as when I see technologies that solve big problems in an easy-to-implement way. <br />
+I get goosebumps when I see technologies that solve big problems in an easy-to-implement way. <br />
 
 What do I do?
 * I write code in TypeScript and JavaScript.
 * I build advanced and complex frontend apps and components using React and Next.js.
 * I develop advanced and complex designs using CSS and SASS.
-* I build HTTP RESTful and GraphQL APIs in Node.js using Express, Nest.js, and Apollo.
-* I write SQL/NoSQL queries with the help of different ORMs. <br />
+* I build high throughput and low latency HTTP RESTful APIs in Node.js and Nest.js.
+* I write SQL/NoSQL queries with the help of different ORMs.
+* I manage apps infrastructure in AWS. <br />
 
 What am I interested in the most?
 * Building performant, maintainable, reliable, testable, and reusable frontend components.
 * Managing state in frontend applications. <br />
 * Building scalable, high throughput, and low latency web services and APIs. <br />
 
-What am I learning nowadays?
-* Building scalable, high throughput, and low latency web services and APIs in Node.js.
-
-It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and anime, learning languages, and listening to rock and metal, so I bet that we would have many exciting things to talk about in our free time ⚡️.
+It's going to be my pleasure to connect with you because I believe that sharing experience with others is one of the best ways to make improvements. I love reading novels, watching TV shows and anime, learning human languages, and listening to rock and metal, so I bet that we would have many exciting things to talk about in our free time ⚡️.
 
 You can reach me anytime on [LinkedIn](https://www.linkedin.com/in/mohammad-saadeh-993993a8/) | [Discord](https://www.discordapp.com/users/mohdasaadeh).
 
