@@ -8,7 +8,8 @@ What do I do?
 * I develop advanced and complex designs using CSS and SASS.
 * I build high throughput and low latency HTTP RESTful APIs in Node.js and Nest.js.
 * I write SQL/NoSQL queries with the help of different ORMs.
-* I manage apps infrastructure in AWS. <br />
+* I manage apps infrastructure in AWS.
+* I build and develop mobile apps in React Native. <br />
 
 What am I interested in the most?
 * Building performant, maintainable, reliable, testable, and reusable frontend components.
