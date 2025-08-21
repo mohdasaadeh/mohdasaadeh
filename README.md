@@ -4,7 +4,7 @@ I get goosebumps whenever I see technologies that solve big problems in an easy-
 
 What do I do?
 * I write code in TypeScript and JavaScript.
-* I build advanced and complex frontend apps and components using React and Next.js.
+* I build advanced and complex frontend apps and components using React, Next.js, and Vue.js.
 * I develop advanced and complex designs using CSS and SASS.
 * I build high throughput and low latency HTTP RESTful APIs in Node.js and Nest.js.
 * I write SQL/NoSQL queries with the help of different ORMs.
